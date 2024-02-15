@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d621319740cd8934d8a6531867be74c0, type: 3}
+  m_Name: Enemy_scenelvl3
+  m_EditorClassIdentifier: 
+  idleTime: 10
+  waypointParent: {fileID: 0}
+  isStaticEnemy: 1
+  spawnPos: {x: 18.493, y: 3.2581, z: 13.428}
+  spawnRot: {x: 0, y: 1, z: 0, w: 0}
+  walkSound: {fileID: 8300000, guid: 5a9383dda6cabc047b7a297602e93eb4, type: 3}
+  runSound: {fileID: 8300000, guid: e9714160ce34f2b4ab63ff8c27bd68e1, type: 3}
